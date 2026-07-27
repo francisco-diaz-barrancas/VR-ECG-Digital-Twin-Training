@@ -1,0 +1,7 @@
+participant_id,clinical_pattern_accuracy,formative_evaluation,visual_dynamic_representation,clinical_workflow_alignment,integration_medical_training,physiological_parameter_customization,consistency_real_cases,research_specialized_training,overall_usability,recommend_professional_advanced_teaching,improvement_feedback
+HCP001,4,3,5,4,4,5,3,4,5,5,
+HCP002,4,4,3,4,4,4,4,4,4,4,
+HCP003,4,4,5,4,4,4,4,4,4,4,
+HCP004,3,4,5,4,3,4,4,4,4,4,
+HCP005,3,4,4,4,4,4,4,4,4,4,
+HCP006,3,3,5,3,5,5,3,5,5,5,

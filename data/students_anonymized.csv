@@ -1,0 +1,54 @@
+participant_id,ease_of_use,interface_intuitive,improved_ecg_understanding,increased_interpretation_confidence,simulation_motivating,realistic_learning_situations,active_learning,useful_for_peers,overall_satisfaction,recommend_academic_training,improvement_feedback
+STU001,4,5,3,3,5,5,3,5,5,5,
+STU002,5,5,4,4,5,5,4,5,4,5,
+STU003,5,4,5,5,5,5,4,5,5,5,
+STU004,4,5,5,5,5,5,5,5,5,5,
+STU005,5,5,4,4,5,5,5,5,4,4,
+STU006,5,5,5,5,5,5,5,5,5,5,
+STU007,4,4,4,4,5,5,4,5,4,5,
+STU008,5,5,3,5,5,5,5,5,4,5,I would add a brief explanation to improve understanding.
+STU009,5,5,2,2,4,2,4,2,3,2,It does not correctly predict the conditions.
+STU010,5,5,5,5,5,5,5,5,5,5,
+STU011,5,5,5,5,5,5,5,5,5,5,Nothing.
+STU012,4,4,5,4,5,5,5,5,5,5,
+STU013,5,5,5,5,5,5,5,5,5,5,
+STU014,5,5,5,5,5,5,5,5,5,5,
+STU015,5,5,5,5,5,5,5,5,5,5,
+STU016,4,5,4,4,5,5,4,5,5,5,Nothing.
+STU017,4,5,4,5,5,5,5,5,5,5,
+STU018,5,5,5,5,5,5,5,5,5,5,
+STU019,5,4,4,5,5,5,4,5,5,5,
+STU020,5,5,5,5,5,5,5,5,5,5,
+STU021,4,2,5,5,5,5,5,5,5,5,
+STU022,5,5,5,5,5,5,5,5,5,5,
+STU023,5,5,5,5,5,5,5,5,5,5,
+STU024,5,5,5,5,5,5,1,5,1,1,
+STU025,4,4,2,3,3,3,4,4,4,4,
+STU026,5,5,3,2,4,3,2,3,3,3,
+STU027,5,4,5,4,5,5,5,5,5,5,
+STU028,4,4,5,5,5,5,5,5,5,5,
+STU029,3,5,4,4,4,5,5,4,5,5,"A clearer explanation of how to use it, together with introductory training on the application."
+STU030,5,5,5,4,5,5,4,5,5,5,
+STU031,5,5,4,5,5,5,4,5,5,5,
+STU032,4,4,4,3,3,3,3,4,3,5,An error occurred when a field was left incomplete. It would be helpful to explain why the error appears or indicate which field still needs to be completed.
+STU033,4,4,5,5,5,5,5,5,5,5,
+STU034,3,4,5,5,4,5,5,5,5,5,
+STU035,5,5,5,5,5,5,5,5,5,5,
+STU036,5,5,3,4,5,4,5,5,5,5,
+STU037,5,5,4,3,5,5,4,5,5,4,
+STU038,3,4,4,4,4,5,4,5,4,5,
+STU039,4,4,4,3,4,5,4,5,4,5,
+STU040,4,5,3,4,5,5,3,4,4,5,
+STU041,3,3,4,4,4,4,3,4,3,3,
+STU042,4,3,3,3,5,5,5,5,4,5,It can be difficult to understand at first.
+STU043,5,5,5,4,4,4,4,5,5,5,
+STU044,5,4,4,4,5,5,5,5,5,5,
+STU045,5,5,3,5,5,5,4,5,5,5,It is a very useful tool for learning ECG interpretation.
+STU046,3,4,3,4,4,3,3,3,3,3,Provide an explanation of why that result was obtained.
+STU047,5,5,5,5,5,5,5,5,5,5,Improve the assessment functionality so that it works correctly.
+STU048,5,5,4,2,5,4,3,4,5,5,Provide instructions on how the application works.
+STU049,4,4,4,4,5,4,4,4,4,5,
+STU050,4,4,4,4,5,5,5,5,5,5,It is very good and highly educational.
+STU051,4,5,4,4,5,4,4,5,4,5,Correct possible errors.
+STU052,5,5,4,5,5,5,5,5,5,5,
+STU053,5,5,4,5,5,5,5,5,4,5,"When checking the answer, the result is not displayed, possibly because of system overload. The application seems very complete; I would add more answer options to cover a wider range of possible pathologies. I would definitely use it for learning."
