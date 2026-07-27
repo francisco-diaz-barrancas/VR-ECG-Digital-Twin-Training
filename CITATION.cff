@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript."
+title: "VR ECG Digital Twin Training Study"
+type: software
+
+authors:
+  - family-names: "Díaz-Barrancas"
+    given-names: "Francisco"
+    email: "frdiaz@unex.es"
+    affiliation: "University of Extremadura"
+    orcid: "https://orcid.org/0000-0002-4624-3386"
+
+  - family-names: "Flores-Martin"
+    given-names: "Daniel"
+    affiliation: "COMPUTAEX Foundation"
+
+  - family-names: "Berrocal"
+    given-names: "Javier"
+    affiliation: "University of Extremadura"
+
+  - family-names: "Murillo"
+    given-names: "Juan M."
+    affiliation: "University of Extremadura"
+
+  - family-names: "Pardo"
+    given-names: "Pedro J."
+    affiliation: "University of Extremadura"
+
+repository-code: "https://github.com/USERNAME/VR-ECG-Digital-Twin-Training"
+
+license: "CC-BY-4.0"
+
+keywords:
+  - Virtual Reality
+  - Digital Twins
+  - Electrocardiography
+  - ECG
+  - Medical Education
+  - Artificial Intelligence
+  - Unity
+  - Meta Quest 3
+
+preferred-citation:
+  type: article
+  title: "Enhancing Medical Education with Virtual Reality: A Digital Twin for ECG Training"
+  authors:
+    - family-names: "Díaz-Barrancas"
+      given-names: "Francisco"
+    - family-names: "Flores-Martin"
+      given-names: "Daniel"
+    - family-names: "Berrocal"
+      given-names: "Javier"
+    - family-names: "Murillo"
+      given-names: "Juan M."
+    - family-names: "Pardo"
+      given-names: "Pedro J."
+  journal: "Virtual Reality"
+  status: "Under review"
+  note: "Manuscript currently under peer review."
