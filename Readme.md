@@ -76,11 +76,7 @@ VR-ECG-Digital-Twin-Training/
 │   ├── descriptive_analysis.py
 │   ├── requirements.txt
 │   └── README.md
-│
-└── docs/
-    ├── study_protocol.md
-    ├── participant_procedure.md
-    └── anonymization_procedure.md
+
 ```
 
 ---
