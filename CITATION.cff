@@ -30,16 +30,6 @@ repository-code: "https://github.com/USERNAME/VR-ECG-Digital-Twin-Training"
 
 license: "CC-BY-4.0"
 
-keywords:
-  - Virtual Reality
-  - Digital Twins
-  - Electrocardiography
-  - ECG
-  - Medical Education
-  - Artificial Intelligence
-  - Unity
-  - Meta Quest 3
-
 preferred-citation:
   type: article
   title: "Enhancing Medical Education with Virtual Reality: A Digital Twin for ECG Training"
