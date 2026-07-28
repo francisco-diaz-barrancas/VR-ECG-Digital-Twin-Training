@@ -173,7 +173,3 @@ y = data["Diagnosis"]
 Categorical variables such as `Rhythm` and `T_Wave` must be encoded before training most machine-learning models.
 
 ---
-
-<p align="center">
-  <strong>Synthetic ECG data for reproducible research and immersive medical education.</strong>
-</p>
