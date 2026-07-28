@@ -55,6 +55,7 @@ The study does not evaluate the application as a certified medical device and do
 
 ## 🗂️ Repository structure
 
+```text
 VR-ECG-Digital-Twin-Training/
 │
 ├── README.md
@@ -79,6 +80,7 @@ VR-ECG-Digital-Twin-Training/
     ├── descriptive_analysis.py
     ├── requirements.txt
     └── README.md
+```
 
 
 ---
