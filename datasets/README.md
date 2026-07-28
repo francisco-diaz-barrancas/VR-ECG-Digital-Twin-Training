@@ -1,4 +1,4 @@
-# 🫀 Synthetic ECG Dataset
+# 🫀 ECG Dataset
 
 <p align="center">
   <strong>Parameter-based ECG profiles for classification and educational simulation</strong>
@@ -171,71 +171,6 @@ y = data["Diagnosis"]
 ```
 
 Categorical variables such as `Rhythm` and `T_Wave` must be encoded before training most machine-learning models.
-
----
-
-## ⚠️ Limitations
-
-- The dataset is synthetic and does not reproduce the full variability of real clinical ECG recordings.
-- It contains parameter-level profiles rather than raw ECG waveforms.
-- The diagnosis labels are intended for educational classification and model development.
-- The dataset must not be used as the sole basis for clinical diagnosis or patient care.
-- Performance obtained with these data does not establish clinical validity.
-- External validation with real, appropriately governed clinical datasets would be required before considering clinical deployment.
-
----
-
-## ♻️ Reuse
-
-When reusing the dataset:
-
-- cite the associated manuscript and repository;
-- preserve the meaning and units of the variables;
-- clearly describe any preprocessing or transformations;
-- report the data split and random seed used;
-- avoid presenting results obtained from this synthetic dataset as evidence of clinical performance.
-
----
-
-## 📝 Citation
-
-Please cite the associated manuscript:
-
-```text
-Díaz-Barrancas, F., Flores-Martin, D., Berrocal, J.,
-Murillo, J. M., and Pardo, P. J.
-
-Enhancing Medical Education with Virtual Reality:
-A Digital Twin for ECG Training.
-
-Manuscript under review in Virtual Reality.
-```
-
-Repository citation metadata are available in the root-level file:
-
-```text
-CITATION.cff
-```
-
----
-
-## 📄 Licence
-
-The dataset is distributed under the terms specified in the repository's root-level:
-
-```text
-LICENSE.md
-```
-
-Unless otherwise stated, the dataset may be released under the **Creative Commons Attribution 4.0 International licence — CC BY 4.0**.
-
----
-
-## ✉️ Contact
-
-**Francisco Díaz-Barrancas**  
-University of Extremadura  
-Email: `frdiaz@unex.es`
 
 ---
 
